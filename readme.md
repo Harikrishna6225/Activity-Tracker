@@ -1,9 +1,10 @@
 # Website Tracker Chrome Extension
+People tend to browse the web for numerous hours and during these hours sometimes they fail to be productive. In this era of social media where short videos have taken over the world, time seems to flow without much realization. 
 
-The **Website Tracker** Chrome extension helps you monitor and manage your web browsing habits by tracking the time spent on each website. Additionally, it provides analytics in the form of graphs and charts, allowing you to visualize your usage patterns.
+The **Activity Tracker** Chrome extension  that will track all the time you are spending on each website. And provide analytical information to organize the time you are spending on the internet. 
 
 ![The "Website Tracker" Chrome extension helps you monitor and manage your web browsing habits by tracking the time spent on each website. Additionally, it provides analytics in the form of graphs and charts, allowing you to visualize your usage patterns.](assets/video/popup.gif)
-![The "Website Tracker" Chrome extension helps you monitor and manage your web browsing habits by tracking the time spent on each website. Additionally, it provides analytics in the form of graphs and charts, allowing you to visualize your usage patterns.](assets/video/graph.gif)
+
 
 
 ## Features
@@ -26,7 +27,7 @@ To install the extension, follow these steps:
 1. Clone the repository to your local machine:
 
    ````bash
-   git clone https://github.com/ankitjha2603/website-tracker.git
+   git https://github.com/Harikrishna6225/Activity-Tracker
    ````
 
 2. Open Chrome and navigate to chrome://extensions/.
